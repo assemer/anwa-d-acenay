@@ -1,0 +1,45 @@
+body{
+	background: #282828;
+	height: 100vh;
+	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	margin: 0;
+	padding: 0;
+
+	color: snow !important;
+}
+
+.box {
+  	display: flex;
+	flex-wrap: wrap;
+  	row-gap: 10px;
+  	column-gap: 2em;
+  	justify-content: center;
+  	width: 100%;
+}
+.z-btn
+{
+	width: 47%;
+	height: 50px;
+	text-align: center;
+	border: 1px solid #4d4d4d;
+	background: #2d2d2d;
+	border-radius: 3px;
+
+	cursor: pointer;
+	transition: all .3s;
+
+}
+.z-btn:hover{
+	background: #1d1d1d;
+}
+.susces
+{
+	background: #006907 !important;
+}
+.fails{
+	background: #AE001D !important;
+}
