@@ -70,7 +70,12 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## Pour Ajouter Un Morceu au jeu
-le fichier data.js
+le fichier data.js ce trouve dans <a href=''>(/dist/js/data.js)</a>
+```js
+// {"author":"", "music" : "", "Musicfile" : "","startingExtrectedOn" : ""}
+data = '[{"author":"Le nom de lartiste", "music" : "le nom du song", "Musicfile" : "le fichie du morceu en (.mp3)","startingExtrectedOn" : "Ou En A comencer a couper le clip [ex (1:15)]"}]';
+```
+si vous aver la flem d'ajouter un morceu manuele j'ai fait un script en python pour automatiser la tache --> <a href=''>Il ce Trouver Ici</a>
 
 
 ## Folow Me @assamer
